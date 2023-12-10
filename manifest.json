@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "JSCAD Redirect Extension",
+  "version": "0.1",
+  "description": "Redirects JavaScript links to JSCAD",
+  "permissions": ["activeTab", "contextMenus", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "64": "icon.png"
+    }
+  },
+  "icons": {
+    "64": "icon.png"
+  }
+}
