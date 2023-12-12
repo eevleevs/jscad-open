@@ -1,4 +1,4 @@
-# JSCAD redirect Chrome extension
+# Open in JSCAD - Chrome extension
 
 This extension redirects the browser to https://jscad.app, either:
 
