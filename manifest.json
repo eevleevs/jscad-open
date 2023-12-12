@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "JSCAD Redirect Extension",
+  "name": "Open in JSCAD",
   "version": "0.1",
   "description": "Redirects JavaScript links to JSCAD",
   "permissions": ["activeTab", "contextMenus", "scripting"],
